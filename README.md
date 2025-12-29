@@ -8,10 +8,15 @@
 
 <h3 align="left">🚀 About Me</h3>
 
-<p align="left">
-  I am a passionate <b>Full Stack Web Developer</b> with expertise in the <b>MERN stack</b> and <b>Next.js ecosystem</b>. 
-  I love building scalable, performant, and user-friendly web applications that solve real-world problems.
-</p>
+```javascript
+const salah = {
+  name: "Salah Almalawi",
+  role: "Programming Technician",
+  company: "Ministry of Interior - Saudi Border Guards",
+  skills: ["Full Stack Web Developer", "MERN Stack", "Next.js"],
+  passion: "Building Future Tech",
+};
+```
 
 <h3 align="left">🛠️ Tech Stack</h3>
 
