@@ -9,7 +9,7 @@
 <h3 align="left">🚀 About Me</h3>
 
 ```javascript
-const salah = {
+const Developer = {
   name: "Salah Almalawi",
   role: "Programming Technician",
   company: "Ministry of Interior - Saudi Border Guards",
