@@ -12,7 +12,7 @@
 const Developer = {
   name: "Salah Almalawi",
   role: "Programming Technician",
-  company: "Ministry of Interior - Saudi Border Guards",
+  Place_Of_Employment: "Ministry of Interior - Saudi Border Guards",
   skills: [
     "Full Stack Web Developer",
     "Database Designer",
