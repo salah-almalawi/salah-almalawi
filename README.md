@@ -13,8 +13,7 @@ const salah = {
   name: "Salah Almalawi",
   role: "Programming Technician",
   company: "Ministry of Interior - Saudi Border Guards",
-  skills: ["Full Stack Web Developer", "MERN Stack", "Next.js"],
-  passion: "Building Future Tech",
+  skills: ["Full Stack Web Developer", "MERN Stack", "Next.js"]
 };
 ```
 
