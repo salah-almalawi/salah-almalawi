@@ -16,7 +16,7 @@ const Developer = {
     "Full Stack Web Developer",
     "Database Designer",
     "API Designer",
-    "Frontend Logic (Next.js, Redux, TanStack Query)"
+    "Frontend Logic (Next.js, Redux, TanStack Query) Designer"
   ]
 };
 ```
