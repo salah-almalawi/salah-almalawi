@@ -13,9 +13,21 @@ const Developer = {
   name: "Salah Almalawi",
   role: "Programming Technician",
   company: "Ministry of Interior - Saudi Border Guards",
-  skills: ["Full Stack Web Developer", "MERN Stack", "Next.js"]
+  skills: [
+    "Full Stack Web Developer",
+    "Database Designer",
+    "API Designer",
+    "Frontend Logic (Next.js, Redux, TanStack Query)"
+  ]
 };
 ```
+
+<h3 align="left">📜 Certifications</h3>
+
+<ul align="left">
+  <li><b>Computer Software Diploma - Web Development</b> - First Class Honors</li>
+  <li><b>Cyber Security Pro+</b> - National Cybersecurity Academy</li>
+</ul>
 
 <h3 align="left">🛠️ Tech Stack</h3>
 
