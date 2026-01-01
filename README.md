@@ -36,20 +36,26 @@ const Developer = {
 
 <h3 align="left">📫 Connect with Me</h3>
 
+<h3 align="left">📫 Connect with Me</h3>
+
 <div align="left">
   <a href="mailto:salah.almalawi11@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/salah-almalawi-4993ba207/">
+  
+  <a href="https://www.linkedin.com/in/salah-almalawi-4993ba207/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://discord.com/users/salahalmalawi">
+  
+  <a href="https://discord.com/users/123456789012345678" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://wa.me/966551261519">
+  
+  <a href="https://wa.me/966551261519" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="https://www.snapchat.com/add/salahalmalawi">
+  
+  <a href="https://www.snapchat.com/add/salahalmalawi" target="_blank">
     <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat" />
   </a>
 </div>
