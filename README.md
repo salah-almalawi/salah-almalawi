@@ -60,7 +60,7 @@ const Developer = {
 </div>
 
 
-
+<br>
 
 <div align="left">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=salah-almalawi.salah-almalawi&" alt="Visitor Badge" />
