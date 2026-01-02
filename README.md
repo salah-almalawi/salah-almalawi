@@ -11,7 +11,6 @@
 ```javascript
 const Developer = {
   name: "Salah Almalawi",
-  role: "Programming Technician",  
   skills: [
     "Advanced Front-end Logic (Next.js 15, React)",
     "State Management Architect (Redux Toolkit, TanStack Query)",
