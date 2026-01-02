@@ -11,13 +11,15 @@
 ```javascript
 const Developer = {
   name: "Salah Almalawi",
-  role: "Programming Technician",
+  role: "Programming Technician",  
   skills: [
-    "Front-end Engineer (Specialized in Application Logic & State Management)",
-    "Database Designer",
-    "API Designer",
-    "Frontend Logic (Next.js, Redux, TanStack Query) Designer"
-  ]
+    "Advanced Front-end Logic (Next.js 15, React)",
+    "State Management Architect (Redux Toolkit, TanStack Query)",
+    "API & Database Designer (Express.js, MongoDB)",
+    "Core JavaScript & System Logic Specialist"
+  ],
+  
+  about: "Focused on building the 'brain' of the application. Logic over CSS."
 };
 
 ```
