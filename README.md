@@ -13,7 +13,7 @@ const Developer = {
   name: "Salah Almalawi",
   role: "Programming Technician",
   skills: [
-    "Full Stack Web Developer",
+    "Front-end Engineer (Specialized in Application Logic & State Management)",
     "Database Designer",
     "API Designer",
     "Frontend Logic (Next.js, Redux, TanStack Query) Designer"
