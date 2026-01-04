@@ -8,20 +8,7 @@
 
 <h3 align="left">🚀 About Me</h3>
 
-```javascript
-const Developer = {
-  name: "Salah Almalawi",
-  skills: [
-    "Advanced Front-end Logic (Next.js 15, React)",
-    "State Management Architect (Redux Toolkit, TanStack Query)",
-    "API & Database Designer (Express.js, MongoDB)",
-    "Core JavaScript & System Logic Specialist"
-  ],
-  
-  about: "Focused on building the 'brain' of the application. Logic over CSS."
-};
-
-```
+I focus on building the **core engine** of web applications. Specialist in **advanced frontend logic**, **state management**, **caching**, and **API integration**. I prioritize engineering the application's **"brain"** over fine-tuning the design.
 
 <h3 align="left">📜 Certifications</h3>
 
