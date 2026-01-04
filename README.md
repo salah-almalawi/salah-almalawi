@@ -5,10 +5,9 @@
 <div align="left">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=35&pause=1000&color=58A6FF&center=false&vCenter=true&width=500&lines=Hi+There!+%F0%9F%91%8B;I%27m+Salah+Almalawi;Full+Stack+Web+Developer" alt="Typing SVG" />
 </div>
-
 <h3 align="left">🚀 About Me</h3>
 
-I focus on building the **core engine** of web applications. Specialist in **advanced frontend logic**, **state management**, **caching**, and **API integration**. I prioritize engineering the application's **"brain"** over fine-tuning the design.
+I specialize in the **Logic Layer** that bridges the gap between UI/UX Design and the Backend. I focus on building the **"Client-side Brain"** of web applications, mastering **advanced frontend logic**, **complex state management (Redux Toolkit)**, and **efficient data synchronization (TanStack Query)**. I prioritize engineering how the application functions and handles data over purely aesthetic styling.
 
 <h3 align="left">📜 Certifications</h3>
 
