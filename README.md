@@ -1,10 +1,6 @@
 <div align="center">
   <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
 </div>
-
-<div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=35&pause=1000&color=58A6FF&center=false&vCenter=true&width=500&lines=Hi+There!+%F0%9F%91%8B;I%27m+Salah+Almalawi;Full+Stack+Web+Developer" alt="Typing SVG" />
-</div>
 <h3 align="left">🚀 About Me</h3>
 
 I specialize in the **Logic Layer** that bridges the gap between UI/UX Design and the Backend. I focus on building the **"Client-side Brain"** of web applications, mastering **advanced frontend logic**, **complex state management (Redux Toolkit)**, and **efficient data synchronization (TanStack Query)**. I prioritize engineering how the application functions and handles data over purely aesthetic styling.
