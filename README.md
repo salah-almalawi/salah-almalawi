@@ -1,4 +1,3 @@
-# Hi, I'm Salah 👋
 ## Full-Stack Developer
 
 > I build the **"Brain"** of web applications. While I appreciate beautiful UI, my passion lies in the **Logic Layer**—bridging the gap between visual design and backend architecture.
