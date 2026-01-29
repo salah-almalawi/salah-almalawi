@@ -1,44 +1,43 @@
-### About Me
+# Hi, I'm Salah 👋
+## Full-Stack Developer | Frontend Logic Specialist
 
-I specialize in the **Logic Layer** that bridges the gap between UI/UX Design and the Backend. I focus on building the **"Client-side Brain"** of web applications, mastering **advanced frontend logic**, **complex state management (Redux Toolkit)**, and **efficient data synchronization (TanStack Query)**. I prioritize engineering how the application functions and handles data over purely aesthetic styling.
-
----
-
-### 🛠 Tech Stack
-
-**Frontend & State Management**
-- JavaScript (ES6+), HTML5, CSS3
-- **React.js**, **Next.js**
-- **Redux Toolkit** (Complex State Management)
-- Tailwind CSS, Bootstrap
-
-**Backend & Databases**
-- **Node.js**, **Express.js**
-- PostgreSQL, MongoDB
-- Python
-
-**Tools & DevOps**
-- **Docker**, **Dokploy**
-- Git, GitHub
-- Linux (Terminal Proficiency)
-- npm, Insomnia
-
-**Design & Prototyping**
-- Figma
-- Adobe Photoshop, Adobe Illustrator
+> I build the **"Brain"** of web applications. While I appreciate beautiful UI, my passion lies in the **Logic Layer**—bridging the gap between visual design and backend architecture.
 
 ---
 
-### 📜 Certifications
+### 🚀 Who Am I?
 
-- **Computer Software Diploma - Web Development** | First Class Honors
-- **Cyber Security Pro+** | National Cybersecurity Academy
+I am a developer who treats the Frontend as a rigorous technical discipline. I specialize in **complex state management**, **performance optimization**, and **self-hosted infrastructure**.
+
+- 🧠 **Focus:** Building scalable "Client-side Brains" using **Redux Toolkit** and **TanStack Query**.
+- 🛠 **Architecture:** I don't just write code; I design systems using **Docker** and **Dokploy** to ensure smooth deployments.
+- 🛡 **Security Minded:** Certified **Cyber Security Pro+**, ensuring code is not just functional, but secure.
 
 ---
 
-### 📫 Connect with Me
+### 🛠 The Toolbox
 
-- **Email:** [salah.almalawi11@gmail.com](mailto:salah.almalawi11@gmail.com)
-- **Discord:** [My Profile](https://discord.com/users/123456789012345678)
-- **WhatsApp:** [Message Me](https://wa.me/966551261519)
-- **Snapchat:** [salahalmalawi](https://www.snapchat.com/add/salahalmalawi)
+| Domain | Technologies |
+| :--- | :--- |
+| **Core & Logic** | JavaScript (ES6+), TypeScript (Learning), Python |
+| **Frontend Frameworks** | **React.js**, **Next.js**, Redux Toolkit, TanStack Query |
+| **UI Implementation** | Tailwind CSS, Bootstrap, Figma (Design-to-Code) |
+| **Backend & DB** | Node.js, Express, PostgreSQL, MongoDB |
+| **DevOps & Infra** | **Docker**, **Dokploy**, Linux, Git/GitHub |
+
+---
+
+### 🎓 Key Certifications
+
+1.  **Cyber Security Pro+** – National Cybersecurity Academy
+2.  **Computer Software Diploma (Web Development)** – First Class Honors
+
+---
+
+### 📫 Let's Connect
+
+I'm open to discussing **complex frontend architecture**, **DevOps for JS apps**, or **collaboration opportunities**.
+
+- [📧 Email Me](mailto:salah.almalawi11@gmail.com)
+- [💬 Discord](https://discord.com/users/123456789012345678)
+- [📱 WhatsApp](https://wa.me/966551261519)
