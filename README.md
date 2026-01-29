@@ -5,7 +5,7 @@
 
 ### 🚀 Who Am I?
 
-I am a developer who treats the Frontend as a rigorous technical discipline. I specialize in **complex state management**, **performance optimization**, and **self-hosted infrastructure**.
+I am a developer who treats the Frontend as a rigorous technical discipline. I specialize in **complex state management**, and **performance optimization**.
 
 - 🧠 **Focus:** Building scalable "Client-side Brains" using **Redux Toolkit** and **TanStack Query**.
 - 🛠 **Architecture:** I don't just write code; I design systems using **Docker** and **Dokploy** to ensure smooth deployments.
