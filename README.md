@@ -11,7 +11,6 @@ I am a developer who treats the Frontend as a rigorous technical discipline. I s
 - 🛠 **Architecture:** I don't just write code; I design systems using **Docker** and **Dokploy** to ensure smooth deployments.
 - 🛡 **Security Minded:** Certified **Cyber Security Pro+**, ensuring code is not just functional, but secure.
 
----
 
 ### 🛠 The Toolbox
 
@@ -23,14 +22,12 @@ I am a developer who treats the Frontend as a rigorous technical discipline. I s
 | **Backend & DB** | Node.js, Express, PostgreSQL, MongoDB |
 | **DevOps & Infra** | **Docker**, **Dokploy**, Linux, Git/GitHub |
 
----
 
 ### 🎓 Key Certifications
 
 1.  **Cyber Security Pro+** – National Cybersecurity Academy
 2.  **Computer Software Diploma (Web Development)** – First Class Honors
 
----
 
 ### 📫 Let's Connect
 
